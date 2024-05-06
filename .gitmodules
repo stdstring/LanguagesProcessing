@@ -1,0 +1,3 @@
+[submodule "SourceCodeAnalysis"]
+	path = SourceCodeAnalysis
+	url = git@github.com:stdstring/SourceCodeAnalysis.git
