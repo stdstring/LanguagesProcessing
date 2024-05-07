@@ -7,3 +7,6 @@
 [submodule "SourceCodeSimplifier"]
 	path = SourceCodeSimplifier
 	url = git@github.com:stdstring/SourceCodeSimplifier.git
+[submodule "PythonExamplesPorter"]
+	path = PythonExamplesPorter
+	url = git@github.com:stdstring/PythonExamplesPorter.git
