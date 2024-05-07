@@ -4,3 +4,6 @@
 [submodule "SourceCodeAnalysis.v2"]
 	path = SourceCodeAnalysis.v2
 	url = git@github.com:stdstring/SourceCodeAnalysis.v2.git
+[submodule "SourceCodeSimplifier"]
+	path = SourceCodeSimplifier
+	url = git@github.com:stdstring/SourceCodeSimplifier.git

@@ -4,8 +4,12 @@ This repo is umbrella (summary) repo for all my projects deal with processing of
 
 ### [SourceCodeAnalysis](https://github.com/stdstring/SourceCodeAnalysis)
 
-Old project which contains source code analysis tools for porting code from C# into C++
+Old source code analysis tool intended for checking ability of porting from C# into C++
 
 ### [SourceCodeAnalysis.v2](https://github.com/stdstring/SourceCodeAnalysis.v2)
 
-New project which contains source code analysis tools for porting code from C# into C++, Python etc
+New source code analysis tool intended for checking ability of porting from C# into C++, Python etc
+
+### [SourceCodeSimplifier](https://github.com/stdstring/SourceCodeSimplifier)
+
+Source code simplification tool intended for converting some specific constructions of C# into more simple ones for simplification of further porting process into another languages (e.g. string interpolation, object initializers etc).
