@@ -10,3 +10,6 @@
 [submodule "PythonExamplesPorter"]
 	path = PythonExamplesPorter
 	url = git@github.com:stdstring/PythonExamplesPorter.git
+[submodule "wordscpp.doxygen2hugo"]
+	path = wordscpp.doxygen2hugo
+	url = git@github.com:stdstring/wordscpp.doxygen2hugo.git
