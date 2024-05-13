@@ -19,3 +19,6 @@
 [submodule "Net2JavaApiDocLinker"]
 	path = Net2JavaApiDocLinker
 	url = git@github.com:stdstring/Net2JavaApiDocLinker.git
+[submodule "cppgm"]
+	path = cppgm
+	url = git@github.com:stdstring/cppgm.git
