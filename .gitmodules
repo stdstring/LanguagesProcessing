@@ -13,3 +13,6 @@
 [submodule "wordscpp.doxygen2hugo"]
 	path = wordscpp.doxygen2hugo
 	url = git@github.com:stdstring/wordscpp.doxygen2hugo.git
+[submodule "ASL.Impl"]
+	path = ASL.Impl
+	url = git@github.com:stdstring/ASL.Impl.git
