@@ -16,3 +16,6 @@
 [submodule "ASL.Impl"]
 	path = ASL.Impl
 	url = git@github.com:stdstring/ASL.Impl.git
+[submodule "Net2JavaApiDocLinker"]
+	path = Net2JavaApiDocLinker
+	url = git@github.com:stdstring/Net2JavaApiDocLinker.git

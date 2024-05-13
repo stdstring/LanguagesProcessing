@@ -6,6 +6,10 @@ This repo is umbrella (summary) repo for all my projects deal with processing of
 
 Implementation of [ASL](https://states-language.net/) for .NET (on F# language)
 
+### [Net2JavaApiDocLinker](https://github.com/stdstring/Net2JavaApiDocLinker)
+
+My old project for creation links between .NET API reference and Java API reference (for Aspose.Words)
+
 ### [PythonExamplesPorter](https://github.com/stdstring/PythonExamplesPorter)
 
 Porter of examples from C# into Python.
