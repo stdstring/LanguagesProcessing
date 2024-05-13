@@ -14,6 +14,10 @@ My solution of cppgm
 
 My old project for creation links between .NET API reference and Java API reference
 
+### [LanguagesExperiments](https://github.com/stdstring/LanguagesExperiments)
+
+Experiments, short tasks, simple utils etc deals with processing of different languages: compilation, porting, transformation, experiments etc.
+
 ### [PythonExamplesPorter](https://github.com/stdstring/PythonExamplesPorter)
 
 Porter of examples from C# into Python.

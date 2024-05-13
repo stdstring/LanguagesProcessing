@@ -22,3 +22,6 @@
 [submodule "cppgm"]
 	path = cppgm
 	url = git@github.com:stdstring/cppgm.git
+[submodule "LanguagesExperiments"]
+	path = LanguagesExperiments
+	url = git@github.com:stdstring/LanguagesExperiments.git
